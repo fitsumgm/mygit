@@ -1,2 +1,4 @@
-This is a sample in my repository.
+This is Sample in my Repository.
+
+Added a new line here too.
 
